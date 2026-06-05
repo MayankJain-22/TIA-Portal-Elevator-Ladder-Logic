@@ -20,17 +20,17 @@ The system automates elevator movement, floor selection, door operation, and saf
 |:------------:|:-----------:|
 | ![Tags](Images/tag_table.png) | ![Watch_table](Images/watch_table.png) |
 
-| ladder diagram |
+| ladder diagram N1 |
 |:------------:|
 | ![network 1](Images/LDnetwork1.png) |
 
 
-| ladder diagram |
+| ladder diagram N2 |
 |:------------:|
 | ![network 2](Images/LDnetwork2.png) |
 
 
-| ladder diagram |
+| ladder diagram N3 |
 |:------------:|
 | ![network 3](Images/LDnetwork3.png) |
 
