@@ -16,9 +16,19 @@ The system automates elevator movement, floor selection, door operation, and saf
 
 ## 📸 Screenshots
 
-| Ladder Logic | Tag Monitor |
+| Tag table | Watch table |
 |:------------:|:-----------:|
-| ![Ladder](Images/ladder_diagram.png) | ![Tags](Images/tag_monitor.png) |
+| ![Tags](Images/tag_table.png) | ![Watch_table](Images/watch_table.png) |
+
+| ladder diagram |
+|:------------:|
+| ![network 1](Images/LDnetwork1.png) |
+
+|:------------:|
+| ![network 2](Images/LDnetwork2.png) |
+
+|:------------:|
+| ![network 3](Images/LDnetwork3.png) |
 
 ---
 
