@@ -8,7 +8,7 @@ The system automates elevator movement, floor selection, door operation, and saf
 
 ## 📹 Demo Video
 
-[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtu.be/4kOHab_eXHM)
 
 > The demo video shows the full simulation running in TIA Portal — floor calls, motor direction, door operation, and live tag monitoring in action.
 
@@ -270,6 +270,8 @@ Door button pressed at any time
 
 **Mayank Jain**  
 IoT, Robotics and Automation Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MayankJain-22)
 
 ---
 
