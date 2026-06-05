@@ -1,6 +1,6 @@
 # 🏢 PLC Elevator System — Siemens TIA Portal V20
 
-A **3-floor elevator control system** programmed using **Ladder Logic** in **Siemens TIA Portal V20**, developed as part of the PLC & HMI subject under the B.Tech Robotics and Automation program at Bharati Vidyapeeth (Deemed to be University), Pune.
+A **3-floor elevator control system** programmed using **Ladder Logic** in **Siemens TIA Portal V20**
 
 The system automates elevator movement, floor selection, door operation, and safety interlocks using a Programmable Logic Controller (PLC), demonstrating real-world industrial automation concepts.
 
@@ -15,8 +15,6 @@ The system automates elevator movement, floor selection, door operation, and saf
 ---
 
 ## 📸 Screenshots
-
-> Add screenshots of your TIA Portal ladder logic rungs and simulation view to the `Images/` folder.
 
 | Ladder Logic | Tag Monitor |
 |:------------:|:-----------:|
@@ -102,8 +100,6 @@ Floor Indicator Lamps (%Q0.0 / Q0.1 / Q0.2)
 
 ## 🔌 I/O Tag Reference
 
-> Tags extracted directly from the TIA Portal project.
-
 ### Digital Outputs (Q)
 
 | Tag Name | Address | Description |
@@ -135,8 +131,8 @@ Floor Indicator Lamps (%Q0.0 / Q0.1 / Q0.2)
 | downward lift timer | TON | Controls downward travel duration |
 | close timer | TON | Delay before door closes |
 | open timer | TON | Duration door remains open |
-| second floor to ... | TON | Transition timer — second floor travel |
-| ground to second ... | TON | Transition timer — ground to second travel |
+| second floor to ground | TON | Transition timer — second floor to ground travel |
+| ground to second floor | TON | Transition timer — ground to second travel |
 
 ---
 
@@ -171,7 +167,7 @@ PLC-Elevator-System/
 - **Siemens TIA Portal V20** (student/trial license available from Siemens)
 - **PLCSIM V20** for software simulation (no physical PLC required)
 
-> ⚠️ `.prx` files are proprietary Siemens TIA Portal archives. They **cannot** be opened in older versions like V17 or V19 — you must use **V20 or later**. If you don't have TIA Portal, watch the [demo video](YOUR_YOUTUBE_LINK_HERE) to see the full simulation.
+> ⚠️ `.prx` files are proprietary Siemens TIA Portal archives. They **cannot** be opened in older versions like V17 or V19 — you must use **V20 or later**.
 
 ### Steps
 
@@ -256,19 +252,10 @@ Door button pressed at any time
 
 ---
 
-## 👥 Team
+## 👤 Author
 
-| Name | PRN | Roll No. |
-|------|-----|----------|
-| Mayank Jain | 2314110615 | 35 |
-| Ayush Singh | 2314110597 | 19 |
-| Vaishnavi N Yerunkar | 2314110600 | 21 |
-| Syed Sami | 2314110618 | 38 |
-
-**Guide:** Prof. Mahavir Beldar
-**Department:** Robotics and Automation
-**Institute:** Bharati Vidyapeeth (Deemed to be University), College of Engineering, Pune
-**Academic Year:** 2025–26
+**Mayank Jain**  
+IoT, Robotics and Automation Enthusiast
 
 ---
 
