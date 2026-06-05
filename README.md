@@ -14,28 +14,6 @@ The system automates elevator movement, floor selection, door operation, and saf
 
 ---
 
-## 📸 Screenshots
-
-| Tag table | Watch table |
-|:------------:|:-----------:|
-| ![Tags](Images/tag_table.png) | ![Watch_table](Images/watch_table.png) |
-
-| ladder diagram N1 |
-|:------------:|
-| ![network 1](Images/LDnetwork1.png) |
-
-
-| ladder diagram N2 |
-|:------------:|
-| ![network 2](Images/LDnetwork2.png) |
-
-
-| ladder diagram N3 |
-|:------------:|
-| ![network 3](Images/LDnetwork3.png) |
-
----
-
 ## 📌 Overview
 
 This project implements a complete PLC-based elevator controller for **Ground Floor, First Floor, and Second Floor** with:
@@ -61,6 +39,28 @@ This project implements a complete PLC-based elevator controller for **Ground Fl
 - `second floor to` and `ground to second` transition timers
 - `door button` memory bit interlock
 - Floor indicator lamps — ground, first, and second floor indication outputs
+
+---
+
+## 📸 Screenshots
+
+| Tag table | Watch table |
+|:------------:|:-----------:|
+| ![Tags](Images/tag_table.png) | ![Watch_table](Images/watch_table.png) |
+
+| ladder diagram N1 |
+|:------------:|
+| ![network 1](Images/LDnetwork1.png) |
+
+
+| ladder diagram N2 |
+|:------------:|
+| ![network 2](Images/LDnetwork2.png) |
+
+
+| ladder diagram N3 |
+|:------------:|
+| ![network 3](Images/LDnetwork3.png) |
 
 ---
 
